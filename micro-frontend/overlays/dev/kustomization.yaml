@@ -10,4 +10,4 @@ patches:
 
 images:
   - name: tomasbeltran/frontend
-    newTag: latest
+    newTag: 7465049
