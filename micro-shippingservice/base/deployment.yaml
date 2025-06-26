@@ -16,4 +16,8 @@ spec:
         - name: shippingservice
           image: tomasbeltran/shippingservice:latest
           ports:
+<<<<<<< HEAD
             - containerPort: 50051
+=======
+            - containerPort: 50051
+>>>>>>> 0c338fae36ee9a2f90aefdf19d210a6f45731163
