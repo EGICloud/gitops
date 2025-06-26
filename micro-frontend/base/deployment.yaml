@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: frontend
-          image: tomasbeltran/frontend:abc1234    # <--- CAMBIA ESTA LÍNEA
+          image: tomasbeltran/frontend:abc1234
           imagePullPolicy: Always
           ports:
             - containerPort: 8080
