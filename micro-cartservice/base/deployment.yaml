@@ -16,4 +16,4 @@ spec:
         - name: cartservice
           image: tomasbeltran/cartservice:latest
           ports:
-            - containerPort: 7070
+            - containerPort: 50051
