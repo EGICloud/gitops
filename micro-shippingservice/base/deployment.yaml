@@ -16,4 +16,4 @@ spec:
         - name: shippingservice
           image: tomasbeltran/shippingservice:latest
           ports:
-            - containerPort: 8080
+            - containerPort: 50051
